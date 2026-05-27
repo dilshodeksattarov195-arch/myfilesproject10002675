@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsrocess",
+        "uuid": 25720125,
+        "checksum": "ezvhv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
